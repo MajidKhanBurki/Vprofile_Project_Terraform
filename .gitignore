@@ -1,0 +1,4 @@
+.terraform
+.terraform.lock.hcl
+vprofilekey
+vprofilekey.pub
