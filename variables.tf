@@ -21,7 +21,7 @@ variable "USERNAME" {
 }
 
 variable "MYIP" {
-  default = "173.33.109.84/32 "
+  default = "173.33.109.84/32"
 }
 
 variable "rmquser" {
@@ -29,7 +29,7 @@ variable "rmquser" {
 }
 
 variable "rmqpass" {
-  default = "Gr33n@pple"
+  default = "Gr33n@pple12"
 }
 
 variable "dbuser" {
